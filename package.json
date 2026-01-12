@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/davidnds/hub-leitura-teste-ui#readme",
   "dependencies": {
+    "@faker-js/faker": "^10.2.0",
     "cypress": "^15.8.2"
   },
   "devDependencies": {
